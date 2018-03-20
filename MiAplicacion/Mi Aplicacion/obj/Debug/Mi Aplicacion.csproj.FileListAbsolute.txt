@@ -1,0 +1,13 @@
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\bin\Debug\Mi Aplicacion.exe.config
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\bin\Debug\Mi Aplicacion.exe
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\bin\Debug\Mi Aplicacion.pdb
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi Aplicacion.csprojResolveAssemblyReference.cache
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi_Aplicacion.Form1.resources
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi_Aplicacion.Form2.resources
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi_Aplicacion.Properties.Resources.resources
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi Aplicacion.csproj.GenerateResource.Cache
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi Aplicacion.exe
+c:\users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\obj\Debug\Mi Aplicacion.pdb
+C:\Users\dell i5\Documents\Visual Studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\bin\Debug\MaterialSkin.dll
+C:\Users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\dell i5\documents\visual studio 2015\Projects\Mi Aplicacion\Mi Aplicacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
